@@ -1,4 +1,4 @@
-Deploy an AI agent with via autogen and llama_index for making data analysis with your files
+Deploy an AI agent with via autogen and llama_index for making data analysis with your files.
 
 In order to understand how this AI Agent locally works; you must first be familiar with how local llama systems works with ollama as I explained through my previous repository: https://github.com/ErdenizUnvan/ollama_local_llama_api
 
