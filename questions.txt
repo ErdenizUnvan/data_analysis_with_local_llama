@@ -1,0 +1,2 @@
+group the data by 'sex' and print the mean of 'output' for each gender
+print the number of unique values in each column of the dataset.
